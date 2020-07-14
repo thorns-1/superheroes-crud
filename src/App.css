@@ -2,37 +2,51 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main {
+  display: flex;
+  flex-direction: row;
+  flex: 3;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.AddHeroForm {
+  background-color: aquamarine;
+  flex: 1;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.HeroTable {
+  background-color: blueviolet;
+  flex: 1;
+  max-width: 38%;
+}
+
+.HeroTablediv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.HeroItem {
+  width: 200px;
+  background-color: cornflowerblue;
+  margin: 10px;
+  padding: 5px;
+}
+
+.HeroItem button {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+}
+
+.HeroInfo {
+  background-color: darkslateblue;
+  flex: 1;
+}
+
+.HeroInfoTable {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  align-items: flex-start;
 }

@@ -1,3 +1,15 @@
+SUPERHEROES CRUD
+
+This web application allows you to add, update and delete information about superheroes.
+It has 3 sections:
+1) Add/Update form;
+2) Superheroes table list
+3) Extended info about specific hero
+
+You can pull and deploy this project on your localhost or just go to link above to see how it works
+
+It has very poor design and some minor bugs but please forgive me
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
