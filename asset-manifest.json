@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/superheroes-crud/static/css/main.f24951f0.chunk.css",
+    "main.js": "/superheroes-crud/static/js/main.725d7c34.chunk.js",
+    "main.js.map": "/superheroes-crud/static/js/main.725d7c34.chunk.js.map",
+    "runtime-main.js": "/superheroes-crud/static/js/runtime-main.64ad5b2a.js",
+    "runtime-main.js.map": "/superheroes-crud/static/js/runtime-main.64ad5b2a.js.map",
+    "static/js/2.e578396a.chunk.js": "/superheroes-crud/static/js/2.e578396a.chunk.js",
+    "static/js/2.e578396a.chunk.js.map": "/superheroes-crud/static/js/2.e578396a.chunk.js.map",
+    "index.html": "/superheroes-crud/index.html",
+    "precache-manifest.f830864b97933953bdf699205c484f31.js": "/superheroes-crud/precache-manifest.f830864b97933953bdf699205c484f31.js",
+    "service-worker.js": "/superheroes-crud/service-worker.js",
+    "static/css/main.f24951f0.chunk.css.map": "/superheroes-crud/static/css/main.f24951f0.chunk.css.map",
+    "static/js/2.e578396a.chunk.js.LICENSE.txt": "/superheroes-crud/static/js/2.e578396a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ad5b2a.js",
+    "static/js/2.e578396a.chunk.js",
+    "static/css/main.f24951f0.chunk.css",
+    "static/js/main.725d7c34.chunk.js"
+  ]
+}
